@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 98000
+cols: 6
+columns:
+  Position: numeric
+  TrackName: character
+  Artist: character
+  Streams: numeric
+  Url: character
+  Date: Date
+description: SpotifyBR
+type: table
