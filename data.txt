@@ -1,6 +1,6 @@
 - path: tabela-spotify
   name: tabela-spotify
-  rows: 98000
+  rows: 98200
   cols: 6
   description: SpotifyBR
   type: table
